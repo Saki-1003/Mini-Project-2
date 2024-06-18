@@ -1,0 +1,159 @@
+{
+  "books": [
+    {
+      "title": "The Last Secret Agent",
+      "author": "Pippa Latour",
+      "price": "10",
+      "category": "Biography",
+      "condition": "Good",
+      "tradeType": "Sell",
+      "synopsis": "The extraordinary untold story of Pippa Latour, who parachuted into occupied France in 1944 as an undercover agent. 'The most remarkable story of a most courageous woman' - Hon Judith Collins. This is the astounding true story of one of the last female special operations agents in France to get out alive after its liberation in WWII. Born in 1921, Pippa Latour became a covert special operations agent who parachuted into a field in Nazi-occupied Normandy.",
+      "sellerNote": "",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9781991006561-1.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 1
+    },
+    {
+      "title": "Think Twice",
+      "author": "Harlan Coben",
+      "price": "10",
+      "category": "",
+      "condition": "",
+      "tradeType": "",
+      "synopsis": "There's no such thing as the perfect murder. From the global No. 1 bestselling author and creator of the hit Netflix drama Stay Close comes the unputdownable new Myron Bolitar thriller. How can a man who's already dead be wanted for murder? This is the question sports agent Myron Bolitar asks himself when two FBI agents visit him in New York. ",
+      "sellerNote": "",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9781529906110.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 2
+    },
+    {
+      "title": "Mind Games",
+      "author": " Nora Roberts",
+      "price": "20",
+      "category": "",
+      "condition": "",
+      "tradeType": "",
+      "synopsis": "Thea Fox is just twelve years old when her parents are brutally slain. With Thea's help the police put their murderer - a psychotic serial killer called Ray Riggs - behind bars for life and Thea and her family try to move. But Ray isn't willing to let Thea go quite so easily...",
+      "sellerNote": "",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9780349437613-1.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 4
+    },
+    {
+      "title": "Piki te Ora: Your Wellbeing Journal",
+      "author": "Hira Nathan",
+      "price": "5",
+      "category": "",
+      "condition": "",
+      "tradeType": "",
+      "synopsis": "A fully illustrated wellbeing journal for children, based upon the Maori principles of hauora, from the bestselling author of Whakawhetai: Gratitude. Kia ora! Welcome - this pukapuka is especially for you! Inside you'll find lots of activities and ideas to help you learn all about the different sides of yourself - and how they make you happy - from your whanau, to moving your body, to caring for others and the environment. There's also room for you to write your thoughts ...",
+      "sellerNote": "",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9781991006745.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 7
+    },
+    {
+      "title": "Tom Clancy Act of Defiance",
+      "author": "Jeffrey Wilson",
+      "price": "10",
+      "synopsis": "FOR JACK RYAN, THE GREATEST THREAT LURKS BENEATH THE WAVES . . . When a Russian superweapon is let loose under the waves, it's up to President Jack Ryan to find a countermove in the latest entry in this #1 New York Times bestselling series. US intelligence says there's something going on in Russia. While their land forces have been decimated by corruption and incompetence, the Navy seems to be pouring money into some secret project. ",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9781408727898.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 14
+    },
+    {
+      "title": "Road Code 2023",
+      "author": " Waka Kotahi, NZ Transport Agency",
+      "price": "20",
+      "synopsis": "The official New Zealand Road Code 2023. Your guide to getting a learner licence.\r\n",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9781990044908-2.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 15
+    },
+    {
+      "title": "Only the Brave",
+      "author": "Danielle Steel",
+      "category": "Novel",
+      "price": "15",
+      "condition": "Very good",
+      "tradeType": "Trade",
+      "synopsis": "COURAGE. COMPASSION. SURVIVAL. LOVE. Only the Brave is a heart-wrenching story of courage and hope set in wartime Berlin, from the billion-copy bestseller Danielle Steel. In 1930s Berlin, dark days dawn under Hitler's Third Reich. For nineteen-year-old Sophia Alexander, life will never be the same. The daughter of a respected doctor, Sophia has always believed that her destiny is to look after others, and as the persecution of Jewish families begins, she joins a group of d ...",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9781529085792.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 17
+    },
+    {
+      "title": "The Sweet Blue Distance",
+      "author": "Sara Donati",
+      "price": "12",
+      "synopsis": "In the 1850s a young midwife braves the perilous journey west to Sante Fe in this captivating epic from the international bestselling author of Into the Wilderness and The Endless Forest. Over half a million copies now sold of the WILDERNESS series in Australia and New Zealand! 1857- In a bid to outrun her past, Carrie Ballentyne accepts a nursing position with a doctor in the New Mexico Territory. She knows the journey from New York to Santa Fe will not be easy, but she r ...",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9780143795223.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 19
+    },
+    {
+      "title": "When the Moon Hatched",
+      "author": "Sarah A. Parker",
+      "price": "13",
+      "category": "Fantasy",
+      "condition": "Very good",
+      "tradeType": "Trade",
+      "synopsis": "The Creators did not expect their beloved dragons to sail skyward upon their end. To curl into balls just beyond the gravity?s grip, littering the sky with tombstones. With moons. They certainly did not expect them to fall. As a valued Elding Blade of the rebellion group Fiur du Ath, Raeve?s job is to kill. To complete orders and never get caught. When a renowned bounty hunter is employed by The Crown to capture a member of the Ath, Raeve?s world is turned upside down. Bl ...",
+      "sellerNote": "",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9780008710231.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 20
+    },
+    {
+      "title": "The Ministry of Time",
+      "author": "Kaliane Bradley",
+      "price": "10",
+      "category": "Novel",
+      "condition": "Fair",
+      "tradeType": "Sell",
+      "synopsis": "Outrageously brilliant' ELEANOR CATTON 'Make room on your bookshelves for a new classic' MAX PORTER 'Thought-provoking and horribly clever - but it also made me laugh out loud' ALICE WINN With its ingenious concept and gripping plot, The Ministry of Time is the most fun you could possibly ever have while engaging so seriously with history and our place in it' DIANA REID 'Funny, moving, original, intelligent, beautifully written and with a thunderous plot' NATHAN FILER ",
+      "sellerNote": "",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9781399726351.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 55
+    },
+    {
+      "title": "Clive Cussler's The Heist",
+      "author": " Jack du Brul",
+      "price": "20",
+      "category": "Other",
+      "condition": "Excellent",
+      "tradeType": "Sell",
+      "synopsis": "Isaac Bell returns for another white-knuckled mission in a new installment of the thrilling series Summer, 1914. At a private meeting on Woodrow Wilson's presidential yacht, the President addresses the newly launched regional Federal Reserve banks, when the yacht comes under attack from a bi-wing airplane. It's up to Isaac Bell to shoot down the plane with a machine gun, saving everyone aboard. But the attack is only the first of his problems. While responding to a curious ...",
+      "sellerNote": "",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9780241667651.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 56
+    },
+    {
+      "title": "Long Island",
+      "author": "Colm Toibin",
+      "price": "10",
+      "category": "Novel",
+      "condition": "Fair",
+      "tradeType": "Sell",
+      "synopsis": "A novel of enormous wit and profound emotional resonance from one of the world's finest writers. Eilis Lacey is Irish, married to Tony Fiorello, a plumber and one of four Italian American brothers, all of whom live in neighboring houses on a cul-de-sac in Lindenhurst, Long Island, with their wives and children and Tony's parents. It is the spring of 1976 and Eilis, now in her forties with two teenage children, has no one to rely on in this still-new country. ",
+      "sellerNote": "",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/nielsens/9781761267734.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 57
+    },
+    {
+      "title": "My Matariki Colouring and Activity Book",
+      "author": "Isobel Joy Te Aho-White",
+      "price": "15",
+      "category": "Other",
+      "condition": "Good",
+      "tradeType": "Trade",
+      "synopsis": "Manawatia a Matariki! Celebrate Matariki with this book bursting with activites and colouring-in pages. A colouring book that also includes a range of activities inclusing crafts and puzzles, and a smattering of te reo, this companion to the 2022 best-seller, Matariki Around the World, is sure to keep readers entertained for hours.",
+      "sellerNote": "",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9781775438762.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 58
+    },
+    {
+      "title": "The Ministry of Time",
+      "author": "Kaliane Bradley",
+      "price": "15",
+      "category": "Other",
+      "condition": "Fair",
+      "tradeType": "Sell",
+      "synopsis": "Outrageously brilliant' ELEANOR CATTON 'Make room on your bookshelves for a new classic' MAX PORTER 'Thought-provoking and horribly clever - but it also made me laugh out loud' ALICE WINN With its ingenious concept and gripping plot, The Ministry of Time is the most fun you could possibly ever have while engaging so seriously with history and our place in it' DIANA REID 'Funny, moving, original, intelligent, beautifully written and with a thunderous plot' NATHAN FILER ' ...",
+      "sellerNote": "",
+      "bookImage": "https://static-ppimages.freetls.fastly.net/product/9781399726351.jpg?canvas=600,600&fit=bounds&height=600&mode=max&width=600&404=default.jpg",
+      "id": 59
+    }
+  ]
+}
